@@ -1,2 +1,2 @@
-# LearningPandas
-Learning the source code of Pandas to familiar Python and Pandas
+# Learning of Machine Learning
+
